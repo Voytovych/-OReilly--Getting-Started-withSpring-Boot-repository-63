@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "my",
+    "type": "com.oreilly.boot.MyMessage",
+    "sourceType": "com.oreilly.boot.MyMessage"
+  }],
+  "properties": [{
+    "name": "my.message-value",
+    "type": "java.lang.String",
+    "sourceType": "com.oreilly.boot.MyMessage"
+  }],
+  "hints": []
+}
